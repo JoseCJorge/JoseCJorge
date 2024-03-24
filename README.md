@@ -4,7 +4,7 @@ Hi 👋 My name is José Jorge
 Junior Full Stack Developer
 ---------------------------
 
-* 🌍  I'm based in Lisbon
+* 🌍  I'm based in Lisbon, Portugal
 * ✉️  You can contact me at [jcj.it@hotmail.com](mailto:jcj.it@hotmail.com)
 * 🧠  I'm learning Springboot and Microservices architecture
 
