@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>🌍 I'm based in Lisbon, Portugal</p>
-  <p>✉️  You can contact me at [jcj.it@hotmail.com](mailto:jcj.it@hotmail.com)</p>
+   ✉️  You can contact me at [jcj.it@hotmail.com](mailto:jcj.it@hotmail.com)
   <p>🌱 I'm currently learning Springboot and Microservices architecture</p>
 </div>
 
