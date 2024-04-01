@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h2>
+<h2 align="center">
   Junior Full Stack Developer
 </h2>
 
@@ -12,7 +12,6 @@
 
 <div align="center">
   <p>🌍 I'm based in Lisbon, Portugal</p>
-   ✉️  You can contact me at [jcj.it@hotmail.com](mailto:jcj.it@hotmail.com)
   <p>🌱 I'm currently learning Springboot and Microservices architecture</p>
 </div>
 
